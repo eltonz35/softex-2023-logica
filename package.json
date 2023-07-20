@@ -1,0 +1,23 @@
+{
+  "name": "softex-2023-logica",
+  "version": "1.0.0",
+  "description": "Curso de Programação Softex 2023.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eltonz35/softex-2023-logica.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eltonz35/softex-2023-logica/issues"
+  },
+  "homepage": "https://github.com/eltonz35/softex-2023-logica#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
